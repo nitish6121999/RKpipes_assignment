@@ -26,4 +26,4 @@ Creating Database and Tables
 
 
 ### 4. Power BI Dashboard
-[github.com/nitish6121999/RKpipes_assignment/blob/main/Dashboard.pdf]
+[ https://github.com/nitish6121999/RKpipes_assignment/blob/main/Dashboard.pdf ]
