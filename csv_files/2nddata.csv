@@ -1,0 +1,101 @@
+supplier_id,supplier_name,contact_person,po_id,order_date,po_detail_id,product_id,quantity,product_name,product_type,unit_price,total_sales
+1,Jenkins Group,Mrs. Patricia Bennett,5,2024-04-13 02:07:23.267866,65,10,18,Galvanized Iron Tube,Tube,200,3600
+5,"Brandt, Wilson and Chan",Sara Moore,50,2023-09-29 06:42:43.215887,42,10,47,Galvanized Iron Tube,Tube,200,9400
+6,"Smith, Griffin and Smith",Brenda Lawson,34,2023-08-20 05:08:50.535032,55,10,23,Galvanized Iron Tube,Tube,200,4600
+6,"Smith, Griffin and Smith",Brenda Lawson,42,2023-05-23 08:07:24.040291,21,10,42,Galvanized Iron Tube,Tube,200,8400
+7,Oconnell Ltd,Daniel Donovan,2,2023-10-05 22:19:18.869122,14,10,45,Galvanized Iron Tube,Tube,200,9000
+7,Oconnell Ltd,Daniel Donovan,2,2023-10-05 22:19:18.869122,66,10,46,Galvanized Iron Tube,Tube,200,9200
+7,Oconnell Ltd,Daniel Donovan,22,2024-04-02 15:48:32.484344,40,10,44,Galvanized Iron Tube,Tube,200,8800
+7,Oconnell Ltd,Daniel Donovan,28,2024-02-18 07:55:41.616669,35,10,13,Galvanized Iron Tube,Tube,200,2600
+1,Jenkins Group,Mrs. Patricia Bennett,5,2024-04-13 02:07:23.267866,84,1,28,Steel Pipe,Pipe,250,7000
+4,"Bradley, Fox and Moore",Allison Ross,1,2024-02-19 07:44:52.670869,92,1,47,Steel Pipe,Pipe,250,11750
+4,"Bradley, Fox and Moore",Allison Ross,12,2023-06-27 00:07:20.544468,9,1,40,Steel Pipe,Pipe,250,10000
+4,"Bradley, Fox and Moore",Allison Ross,23,2024-05-08 15:45:51.296472,16,1,30,Steel Pipe,Pipe,250,7500
+4,"Bradley, Fox and Moore",Allison Ross,23,2024-05-08 15:45:51.296472,62,1,49,Steel Pipe,Pipe,250,12250
+5,"Brandt, Wilson and Chan",Sara Moore,48,2023-08-19 09:10:24.402906,12,1,47,Steel Pipe,Pipe,250,11750
+5,"Brandt, Wilson and Chan",Sara Moore,50,2023-09-29 06:42:43.215887,13,1,41,Steel Pipe,Pipe,250,10250
+7,Oconnell Ltd,Daniel Donovan,18,2023-08-03 09:44:58.529371,95,1,47,Steel Pipe,Pipe,250,11750
+1,Jenkins Group,Mrs. Patricia Bennett,15,2023-09-04 23:06:20.762879,25,7,38,Stainless Steel Pipe,Pipe,350,13300
+2,Norris-Carroll,Chad Snow,31,2024-03-02 04:00:37.685560,74,7,13,Stainless Steel Pipe,Pipe,350,4550
+2,Norris-Carroll,Chad Snow,39,2023-12-24 06:14:54.158740,27,7,25,Stainless Steel Pipe,Pipe,350,8750
+7,Oconnell Ltd,Daniel Donovan,28,2024-02-18 07:55:41.616669,60,7,16,Stainless Steel Pipe,Pipe,350,5600
+7,Oconnell Ltd,Daniel Donovan,30,2023-10-14 16:22:56.476594,2,7,37,Stainless Steel Pipe,Pipe,350,12950
+8,Webb PLC,Felicia Robinson,32,2023-08-03 08:41:17.985781,34,7,43,Stainless Steel Pipe,Pipe,350,15050
+9,"Robertson, Rivera and Willis",Rebecca Sanders,29,2024-02-29 05:50:03.029199,28,7,38,Stainless Steel Pipe,Pipe,350,13300
+10,Sanchez-Hayden,Robert Harrington,13,2024-03-04 18:13:37.112639,61,7,47,Stainless Steel Pipe,Pipe,350,16450
+10,Sanchez-Hayden,Robert Harrington,16,2024-04-28 16:04:29.001189,5,7,37,Stainless Steel Pipe,Pipe,350,12950
+10,Sanchez-Hayden,Robert Harrington,16,2024-04-28 16:04:29.001189,98,7,31,Stainless Steel Pipe,Pipe,350,10850
+1,Jenkins Group,Mrs. Patricia Bennett,15,2023-09-04 23:06:20.762879,26,6,28,Aluminum Coupling,Coupling,100,2800
+1,Jenkins Group,Mrs. Patricia Bennett,24,2023-07-03 21:32:35.071763,32,6,32,Aluminum Coupling,Coupling,100,3200
+1,Jenkins Group,Mrs. Patricia Bennett,24,2023-07-03 21:32:35.071763,63,6,30,Aluminum Coupling,Coupling,100,3000
+3,"Smith, Rivera and Lindsey",Sandra Berry,20,2024-03-26 16:49:43.717868,89,6,48,Aluminum Coupling,Coupling,100,4800
+4,"Bradley, Fox and Moore",Allison Ross,36,2023-08-30 16:12:54.318557,45,6,46,Aluminum Coupling,Coupling,100,4600
+5,"Brandt, Wilson and Chan",Sara Moore,11,2024-03-24 21:02:46.365157,88,6,39,Aluminum Coupling,Coupling,100,3900
+7,Oconnell Ltd,Daniel Donovan,2,2023-10-05 22:19:18.869122,44,6,26,Aluminum Coupling,Coupling,100,2600
+7,Oconnell Ltd,Daniel Donovan,25,2024-03-27 21:53:53.348148,37,6,21,Aluminum Coupling,Coupling,100,2100
+7,Oconnell Ltd,Daniel Donovan,28,2024-02-18 07:55:41.616669,97,6,28,Aluminum Coupling,Coupling,100,2800
+8,Webb PLC,Felicia Robinson,32,2023-08-03 08:41:17.985781,64,6,32,Aluminum Coupling,Coupling,100,3200
+8,Webb PLC,Felicia Robinson,32,2023-08-03 08:41:17.985781,93,6,11,Aluminum Coupling,Coupling,100,1100
+10,Sanchez-Hayden,Robert Harrington,6,2023-07-15 06:24:28.576293,99,6,41,Aluminum Coupling,Coupling,100,4100
+10,Sanchez-Hayden,Robert Harrington,8,2023-12-04 16:43:12.289255,38,6,47,Aluminum Coupling,Coupling,100,4700
+1,Jenkins Group,Mrs. Patricia Bennett,24,2023-07-03 21:32:35.071763,7,9,29,Brass Valve,Valve,600,17400
+1,Jenkins Group,Mrs. Patricia Bennett,37,2024-01-08 07:18:10.545128,53,9,45,Brass Valve,Valve,600,27000
+2,Norris-Carroll,Chad Snow,31,2024-03-02 04:00:37.685560,76,9,14,Brass Valve,Valve,600,8400
+2,Norris-Carroll,Chad Snow,46,2023-06-23 02:08:05.645675,43,9,33,Brass Valve,Valve,600,19800
+4,"Bradley, Fox and Moore",Allison Ross,9,2023-10-13 05:44:04.317590,78,9,17,Brass Valve,Valve,600,10200
+4,"Bradley, Fox and Moore",Allison Ross,12,2023-06-27 00:07:20.544468,77,9,33,Brass Valve,Valve,600,19800
+6,"Smith, Griffin and Smith",Brenda Lawson,4,2023-08-30 16:59:43.249103,19,9,18,Brass Valve,Valve,600,10800
+7,Oconnell Ltd,Daniel Donovan,22,2024-04-02 15:48:32.484344,17,9,18,Brass Valve,Valve,600,10800
+1,Jenkins Group,Mrs. Patricia Bennett,43,2024-04-06 05:44:40.845840,70,5,22,Plastic Elbow,Elbow,30,660
+2,Norris-Carroll,Chad Snow,46,2023-06-23 02:08:05.645675,96,5,33,Plastic Elbow,Elbow,30,990
+5,"Brandt, Wilson and Chan",Sara Moore,11,2024-03-24 21:02:46.365157,58,5,48,Plastic Elbow,Elbow,30,1440
+5,"Brandt, Wilson and Chan",Sara Moore,50,2023-09-29 06:42:43.215887,81,5,42,Plastic Elbow,Elbow,30,1260
+6,"Smith, Griffin and Smith",Brenda Lawson,34,2023-08-20 05:08:50.535032,67,5,17,Plastic Elbow,Elbow,30,510
+6,"Smith, Griffin and Smith",Brenda Lawson,42,2023-05-23 08:07:24.040291,4,5,37,Plastic Elbow,Elbow,30,1110
+7,Oconnell Ltd,Daniel Donovan,2,2023-10-05 22:19:18.869122,3,5,42,Plastic Elbow,Elbow,30,1260
+8,Webb PLC,Felicia Robinson,10,2024-04-09 11:59:19.566240,72,5,28,Plastic Elbow,Elbow,30,840
+8,Webb PLC,Felicia Robinson,27,2024-02-14 21:06:09.364943,100,5,46,Plastic Elbow,Elbow,30,1380
+8,Webb PLC,Felicia Robinson,45,2023-10-19 14:31:32.916180,85,5,41,Plastic Elbow,Elbow,30,1230
+9,"Robertson, Rivera and Willis",Rebecca Sanders,3,2023-06-01 00:36:57.020930,11,5,22,Plastic Elbow,Elbow,30,660
+10,Sanchez-Hayden,Robert Harrington,6,2023-07-15 06:24:28.576293,69,5,10,Plastic Elbow,Elbow,30,300
+10,Sanchez-Hayden,Robert Harrington,16,2024-04-28 16:04:29.001189,41,5,26,Plastic Elbow,Elbow,30,780
+2,Norris-Carroll,Chad Snow,19,2024-01-12 08:44:34.147508,71,2,15,PVC Fitting,Fitting,50,750
+2,Norris-Carroll,Chad Snow,31,2024-03-02 04:00:37.685560,59,2,14,PVC Fitting,Fitting,50,700
+3,"Smith, Rivera and Lindsey",Sandra Berry,49,2023-06-05 20:52:01.934646,79,2,11,PVC Fitting,Fitting,50,550
+4,"Bradley, Fox and Moore",Allison Ross,23,2024-05-08 15:45:51.296472,22,2,20,PVC Fitting,Fitting,50,1000
+4,"Bradley, Fox and Moore",Allison Ross,23,2024-05-08 15:45:51.296472,48,2,22,PVC Fitting,Fitting,50,1100
+4,"Bradley, Fox and Moore",Allison Ross,35,2023-07-06 19:04:03.977548,39,2,12,PVC Fitting,Fitting,50,600
+4,"Bradley, Fox and Moore",Allison Ross,36,2023-08-30 16:12:54.318557,10,2,45,PVC Fitting,Fitting,50,2250
+5,"Brandt, Wilson and Chan",Sara Moore,11,2024-03-24 21:02:46.365157,49,2,32,PVC Fitting,Fitting,50,1600
+5,"Brandt, Wilson and Chan",Sara Moore,11,2024-03-24 21:02:46.365157,56,2,40,PVC Fitting,Fitting,50,2000
+6,"Smith, Griffin and Smith",Brenda Lawson,42,2023-05-23 08:07:24.040291,75,2,26,PVC Fitting,Fitting,50,1300
+7,Oconnell Ltd,Daniel Donovan,47,2024-01-29 06:54:14.091358,31,2,20,PVC Fitting,Fitting,50,1000
+9,"Robertson, Rivera and Willis",Rebecca Sanders,29,2024-02-29 05:50:03.029199,1,2,50,PVC Fitting,Fitting,50,2500
+9,"Robertson, Rivera and Willis",Rebecca Sanders,29,2024-02-29 05:50:03.029199,23,2,42,PVC Fitting,Fitting,50,2100
+2,Norris-Carroll,Chad Snow,19,2024-01-12 08:44:34.147508,83,3,21,Bronze Valve,Valve,500,10500
+2,Norris-Carroll,Chad Snow,39,2023-12-24 06:14:54.158740,30,3,31,Bronze Valve,Valve,500,15500
+2,Norris-Carroll,Chad Snow,46,2023-06-23 02:08:05.645675,29,3,12,Bronze Valve,Valve,500,6000
+5,"Brandt, Wilson and Chan",Sara Moore,40,2023-05-25 18:16:41.397739,8,3,41,Bronze Valve,Valve,500,20500
+7,Oconnell Ltd,Daniel Donovan,2,2023-10-05 22:19:18.869122,54,3,14,Bronze Valve,Valve,500,7000
+7,Oconnell Ltd,Daniel Donovan,2,2023-10-05 22:19:18.869122,87,3,13,Bronze Valve,Valve,500,6500
+8,Webb PLC,Felicia Robinson,14,2023-08-19 07:25:22.048193,46,3,23,Bronze Valve,Valve,500,11500
+9,"Robertson, Rivera and Willis",Rebecca Sanders,3,2023-06-01 00:36:57.020930,20,3,18,Bronze Valve,Valve,500,9000
+2,Norris-Carroll,Chad Snow,39,2023-12-24 06:14:54.158740,82,8,18,Plastic sheets,Sheets,60,1080
+3,"Smith, Rivera and Lindsey",Sandra Berry,20,2024-03-26 16:49:43.717868,6,8,39,Plastic sheets,Sheets,60,2340
+5,"Brandt, Wilson and Chan",Sara Moore,44,2024-01-22 20:36:58.714165,18,8,25,Plastic sheets,Sheets,60,1500
+5,"Brandt, Wilson and Chan",Sara Moore,48,2023-08-19 09:10:24.402906,91,8,48,Plastic sheets,Sheets,60,2880
+6,"Smith, Griffin and Smith",Brenda Lawson,34,2023-08-20 05:08:50.535032,47,8,49,Plastic sheets,Sheets,60,2940
+6,"Smith, Griffin and Smith",Brenda Lawson,41,2023-12-07 04:05:03.111671,90,8,47,Plastic sheets,Sheets,60,2820
+7,Oconnell Ltd,Daniel Donovan,22,2024-04-02 15:48:32.484344,80,8,19,Plastic sheets,Sheets,60,1140
+7,Oconnell Ltd,Daniel Donovan,25,2024-03-27 21:53:53.348148,24,8,26,Plastic sheets,Sheets,60,1560
+8,Webb PLC,Felicia Robinson,10,2024-04-09 11:59:19.566240,33,8,43,Plastic sheets,Sheets,60,2580
+8,Webb PLC,Felicia Robinson,27,2024-02-14 21:06:09.364943,52,8,33,Plastic sheets,Sheets,60,1980
+8,Webb PLC,Felicia Robinson,45,2023-10-19 14:31:32.916180,36,8,19,Plastic sheets,Sheets,60,1140
+8,Webb PLC,Felicia Robinson,45,2023-10-19 14:31:32.916180,94,8,22,Plastic sheets,Sheets,60,1320
+9,"Robertson, Rivera and Willis",Rebecca Sanders,29,2024-02-29 05:50:03.029199,73,8,41,Plastic sheets,Sheets,60,2460
+4,"Bradley, Fox and Moore",Allison Ross,23,2024-05-08 15:45:51.296472,51,4,14,Copper Tube,Tube,150,2100
+4,"Bradley, Fox and Moore",Allison Ross,36,2023-08-30 16:12:54.318557,15,4,43,Copper Tube,Tube,150,6450
+6,"Smith, Griffin and Smith",Brenda Lawson,41,2023-12-07 04:05:03.111671,86,4,38,Copper Tube,Tube,150,5700
+7,Oconnell Ltd,Daniel Donovan,25,2024-03-27 21:53:53.348148,50,4,15,Copper Tube,Tube,150,2250
+8,Webb PLC,Felicia Robinson,27,2024-02-14 21:06:09.364943,68,4,15,Copper Tube,Tube,150,2250
+9,"Robertson, Rivera and Willis",Rebecca Sanders,3,2023-06-01 00:36:57.020930,57,4,38,Copper Tube,Tube,150,5700
